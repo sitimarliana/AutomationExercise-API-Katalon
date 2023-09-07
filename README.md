@@ -15,7 +15,3 @@ Test Case and Regresion Pack :
 https://bit.ly/automationexercise_apitesting
 
 I hope this reprository can help you learn about automation API testing. :) 
-
-
-
-5. 
